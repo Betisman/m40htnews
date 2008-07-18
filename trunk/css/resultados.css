@@ -1,0 +1,23 @@
+/*Hoja de estilos para login.html*/
+body{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 75%;
+	background: #CCFF99
+}
+table{ 
+text-align: center;
+width: 60%;
+border: thin;
+background: #99FF99;
+ }
+ 
+
+ 
+h3,h2,ul,li{
+	text-align: center;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+ }
+ 
+ li{
+	list-style : none;
+}

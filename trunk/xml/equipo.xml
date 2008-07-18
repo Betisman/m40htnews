@@ -1,0 +1,133 @@
+<HattrickData>
+<FileName>teamDetails.asp</FileName>
+<Version>1.8</Version>
+<UserID>6660948</UserID>
+<FetchedDate>2008-07-10 11:15:34</FetchedDate>
+<ActionType>view</ActionType>
+-
+<User>
+<UserID>301909</UserID>
+-
+<Language>
+<LanguageID>2</LanguageID>
+<LanguageName>English</LanguageName>
+</Language>
+<HasSupporter>True</HasSupporter>
+<Loginname>CHPP-Emma</Loginname>
+<Name>HIDDEN</Name>
+<ICQ/>
+<SignupDate>2003-03-17 19:22:04</SignupDate>
+<ActivationDate>2003-03-23 04:15:00</ActivationDate>
+<LastLoginDate>2008-07-09 15:09:04</LastLoginDate>
+<NationalTeamCoach Count="0">
+				
+			</NationalTeamCoach>
+</User>
+-
+<Team>
+<TeamID>177874</TeamID>
+<TeamName>Anglesey Clearly Now The Rain Has Gone!</TeamName>
+<ShortTeamName>ACNTRHG</ShortTeamName>
+-
+<Arena>
+<ArenaID>177874</ArenaID>
+<ArenaName>ACNTRHG Arena</ArenaName>
+</Arena>
+-
+<League>
+<LeagueID>61</LeagueID>
+<LeagueName>Cymru</LeagueName>
+</League>
+-
+<Region>
+<RegionID>1227</RegionID>
+<RegionName>Gwynedd</RegionName>
+</Region>
+-
+<Trainer>
+<PlayerID>25636600</PlayerID>
+<PlayerName/>
+</Trainer>
+<HomePage>wiki.hattrick.org/Staff_Cup</HomePage>
+<Dress>X000001</Dress>
+<DressAlternate>H040204</DressAlternate>
+-
+<LeagueLevelUnit Available="true">
+<LeagueLevelUnitID>21855</LeagueLevelUnitID>
+<LeagueLevelUnitName>IV.23</LeagueLevelUnitName>
+<LeagueLevel>4</LeagueLevel>
+</LeagueLevelUnit>
+-
+<BotStatus>
+<IsBot>false</IsBot>
+<BotSince>1900-01-01</BotSince>
+</BotStatus>
+-
+<Cup Available="true">
+<StillInCup>false</StillInCup>
+</Cup>
+<FriendlyBooked Available="true">false</FriendlyBooked>
+<FriendlyTeamID Available="true">0</FriendlyTeamID>
+<NumberOfVictories Available="true">1</NumberOfVictories>
+<NumberOfUndefeated Available="true">1</NumberOfUndefeated>
+<TeamRank Available="true">219</TeamRank>
+-
+<LogoURL>
+http://hosting.hattrick.org/Useruploads/TeamLogos\1\7\Logo177874.PNG
+</LogoURL>
+-
+<Fanclub>
+<FanclubID>20768</FanclubID>
+<FanclubName>Menai in Tights</FanclubName>
+</Fanclub>
+-
+<Guestbook>
+<NumberOfGuestbookItems>888</NumberOfGuestbookItems>
+</Guestbook>
+-
+<PressAnnouncement>
+<Subject>Friendlies (updated)</Subject>
+-
+<Body>
+I would like to play in any of these countries...
+
+Armenia
+Azerbaijan
+Bahrain
+Barbados
+Benin
+Brunei
+Cape Verde
+Côte d’Ivoire
+Iraq
+Jamaica
+Jordan
+Kazakhstan
+Kenya
+Kuwait
+Kyrgyzstan
+Mongolia
+Mozambique
+Nicaragua
+Nigeria
+Philipines
+Qatar
+Saudi Arabia
+Senegal
+South Korea
+Suriname
+Syria
+Tanzania
+Trinidad
+Vietnam
+Yemen
+
+If anyone would like to play me, please get in touch:)
+
+Conversely, if you are NOT from one of the above countries, then NO, I am NOT interested in p
+</Body>
+<SendDate>2008-05-01 15:58:00</SendDate>
+</PressAnnouncement>
+<YouthTeamID>65821</YouthTeamID>
+</Team>
+</HattrickData>

@@ -1,0 +1,49 @@
+<HattrickData>
+<FileName>playerDetails.asp</FileName>
+<Version>1.1</Version>
+<UserID>6660948</UserID>
+<UserIsSupporter>1</UserIsSupporter>
+<UserHasClubHouse>0</UserHasClubHouse>
+<FetchedDate>2008-07-10 11:16:44</FetchedDate>
+<ActionType>view</ActionType>
+<ActionSuccess>OK</ActionSuccess>
+-
+<Player>
+<PlayerID>68474162</PlayerID>
+<PlayerName>Lars Lynge  Bryld</PlayerName>
+<PlayerNumber Available="false"/>
+<Age>28</Age>
+<AgeDays>8</AgeDays>
+<PlayerForm>6</PlayerForm>
+<Cards Available="true">0</Cards>
+<InjuryLevel Available="true">-1</InjuryLevel>
+<Statement Available="false"/>
+<PlayerLanguage Available="false"/>
+<TrainerData Available="false"/>
+<Agreeability>2</Agreeability>
+<Aggressiveness>3</Aggressiveness>
+<Honesty>3</Honesty>
+<Experience>7</Experience>
+<Leadership>4</Leadership>
+<Specialty>0</Specialty>
+<NativeLeagueID>11</NativeLeagueID>
+<NativeLeagueName>Danmark</NativeLeagueName>
+<TSI>22730</TSI>
+-
+<OwningTeam Available="true">
+<TeamID>99100</TeamID>
+<TeamName>Woodstock Warriors</TeamName>
+<LeagueID>1</LeagueID>
+</OwningTeam>
+<Salary>128363</Salary>
+<IsAbroad>1</IsAbroad>
+<PlayerSkills Available="false"/>
+<Caps>0</Caps>
+<CapsU20>0</CapsU20>
+<CareerGoals Available="true">0</CareerGoals>
+<CareerHattricks Available="true">0</CareerHattricks>
+<LeagueGoals Available="true">0</LeagueGoals>
+<CupGoals Available="true">0</CupGoals>
+<TransferListed>0</TransferListed>
+</Player>
+</HattrickData>
