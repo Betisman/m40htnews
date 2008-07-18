@@ -1,0 +1,23 @@
+/*Hoja de estilos para inicio.php*/
+body{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+	font-size : 85%;
+	background : white;
+	position : absolute;
+}
+#menu{
+}
+.elementolista{
+	width:100px;
+	float:left;
+	text-align:center;
+}
+.button{
+	text-decoration:none;
+}
+a{
+	color:#006600;
+}
+a:hover{
+	color:#66CC00;
+}

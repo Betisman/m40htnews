@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>m40-htnews</title>
+<meta name="keywords" content="hattrick m40 htnews thepiso Betisman">
+<meta name="author" content="Molinete">
+<meta name="author" content="Betisman">
+<title>m40 ht</title>
+ <script languaje="JavaScript">
+	function alerta(mensaje){
+		window.alert(mensaje);
+	}
+	function acceso(formu){
+			if (formu.usuario.value=="" ||formu.password.value==""){
+				alerta("Introduce todos los datos");
+				formu.usuario.focus();
+				return (false);
+			}
+			else {
+			document.cookie="USER="+document.formulario.usuario.value;
+			return (true);
+			}
+	}
+</script>
+	<!-- zona para hojas de estilos -->
+    <LINK HREF="css/login.css" REL="stylesheet" TYPE="text/css">
+    <!-- fin de zona para hojas de estilos -->
+</head>
+<body>
+<div id="cabecera">
+	<p align=center><img src="images/m40.png" alt="m40 htnews"></p>
+</div>
+<div id="contenido">
+	<form name="formulario" onSubmit="return acceso(this)" action="usuario.php" method="post" lang="es">
+    	<div id="tabla" align="center">
+    	  <table width="50%" border="0">
+    	    <tr>
+    	      <td width="50%" align="right">nombre de usuario</td>
+		      <td width="50%"><input name="usuario" size="20" type="text"></td>
+		    </tr>
+    	    <tr>
+    	      <td align="right">contraseña &nbsp;&nbsp;&nbsp;&nbsp;</td>
+   			   <td><input name="password" size="20" type="password"></td>
+  			  </tr>
+    	    </table>
+            <p> 
+            	<input value="entrar" title="acceso a la tienda" type="submit"> 
+            </p>
+  	  </div>
+	</form>
+</div>
+<div id="bottom">
+	<p align="center">
+    	<a href="registro.php"> registro</a>
+    </p> 
+</div>
+</body>
+</html>
