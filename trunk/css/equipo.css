@@ -1,0 +1,19 @@
+
+.nombreEquipoLogo {
+	position:absolute;
+	top:100px;
+	left:500px;
+	text-align:center;
+	list-style-type:none;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.listaequipo {
+	position:absolute;
+	list-style-type:none;
+	text-decoration:none;
+	color:#FFFFFF;
+}
+h4 {
+	color:#FFFFFF;
+}
