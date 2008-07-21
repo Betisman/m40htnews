@@ -78,7 +78,18 @@ h2,h3{
 	text-decoration:none;
 }
 .logoequipo{
-
+	text-align:center;
+	width:795px;
+	height:100px;
+	padding-left:40px;
+	padding-top:10px;
+	background-image:url("../images/BannerThepiso.png");
+	background-position:center;
+	background-repeat:no-repeat;
+	color:white;
+}    
+.logoequipo a:link,a:visited{
+	color:white;
 }
 .imagenlogoequipo{
 	z-index:3;
