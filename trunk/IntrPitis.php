@@ -6,12 +6,24 @@
 </head>
 
 <body>
-	<h2 align="center">Copa Internacional del Principado de Pitis</h2>
-    <div class="edicionesTorneo">
-    	<!-- Quizás más adelenate se pueda hace mediante una consulta a la base de datos -->
+	<div class="toptorneo">
+    	<div class="nombretorneo">
+			<h2 align="center">Copa Internacional del Principado de Pitis</h2>
+        </div>
+        <div class="imagentorneo">
+        <!-- Opcional-->
+        	Imagen
+        </div>
+    	<div class="edicionesTorneo">
+        	Ediciones del torneo
+    		<!-- Quizás más adelenate se pueda hace mediante una consulta a la base de datos -->
+    	</div>
     </div>
-    <div class="cuerpoEdidiones">
-    	
+    <div class="cuerpotrofeo">
+    	Cuerpo  trofeo
+    </div>
+    <div class="pietrofeo">
+    	Pie trofeo
     </div>
 </body>
 </html>
