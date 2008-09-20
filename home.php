@@ -16,7 +16,7 @@
       	<div class="level2"><a href="javascript:llamarasincrono('ligam40.php', 'cuerpo');">liga m40</a></div>
         <div class="level2"><a href="javascript:llamarasincrono('copam40.php', 'cuerpo');">copa m40</a></div>
         <div class="level2"><a href="javascript:llamarasincrono('equipos.php', 'cuerpo');">equipos</a></div>
-        <div class="level3"><a href="javascript:llamarasincrono('thepiso.php', 'cuerpo');">Thepiso</a></div>
+        <div class="level3"><a href="javascript:llamarasincrono('equipogenerico.php', 'cuerpo');">equipoGenerico</a></div>
         <div class="level2"><a href="javascript:llamarasincrono('juveniles.php', 'cuerpo');">juveniles</a></div>
         <div class="level3"><a href="javascript:llamarasincrono('miniligam40.php', 'cuerpo');">miniliga m40</a></div>
         <div class="level3"><a href="javascript:llamarasincrono('eqjuveniles.php', 'cuerpo');">equipos</a></div>
