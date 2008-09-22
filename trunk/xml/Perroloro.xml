@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<HattrickData>
+	<FileName>teamDetails.asp</FileName>
+	<Version>1.8</Version>
+	<UserID>8274238</UserID>
+	<FetchedDate>2008-09-22 17:11:50</FetchedDate>
+	<ActionType>view</ActionType>
+	
+		<User>
+			<UserID>8274238</UserID>
+			
+			<Language>
+				<LanguageID>6</LanguageID>
+				<LanguageName>Espa&#241;ol</LanguageName>
+			</Language>
+			<HasSupporter>False</HasSupporter>
+			<Loginname>Raulloro</Loginname>
+			<Name>HIDDEN</Name>
+			<ICQ></ICQ>
+			<SignupDate>2008-07-17 08:19:23</SignupDate>
+			
+			<ActivationDate>2008-07-18 03:53:00</ActivationDate>
+			
+			<LastLoginDate>2008-09-22 17:09:48</LastLoginDate>
+			
+			<NationalTeamCoach Count="0">
+				
+			</NationalTeamCoach>
+		</User>
+		
+		<Team>
+			<TeamID>1364906</TeamID>
+			<TeamName>Perroloro</TeamName>
+			<ShortTeamName>Perroloro</ShortTeamName>
+			<Arena>
+				<ArenaID>1361468</ArenaID>
+				<ArenaName>Ribera del Tajo</ArenaName>
+			</Arena>
+			<League>
+				<LeagueID>36</LeagueID>
+				<LeagueName>Espa&#241;a</LeagueName>
+			</League>
+			<Region>
+				<RegionID>811</RegionID>
+				<RegionName>Castilla-La Mancha</RegionName>
+			</Region>
+			<Trainer>
+				<PlayerID>187747268</PlayerID>
+				<PlayerName></PlayerName>
+			</Trainer>
+			<HomePage></HomePage>
+			
+			<Dress>N000000</Dress>
+			<DressAlternate>N101010</DressAlternate>
+				
+				<LeagueLevelUnit Available="true">
+					<LeagueLevelUnitID>198892</LeagueLevelUnitID>
+					<LeagueLevelUnitName>XI.2902</LeagueLevelUnitName>
+					<LeagueLevel>11</LeagueLevel>
+				</LeagueLevelUnit>
+			
+			<BotStatus>
+				<IsBot>false</IsBot>
+				<BotSince>1900-01-01</BotSince>
+			</BotStatus>			
+			
+				<Cup Available="true">
+					
+					<StillInCup>false</StillInCup>
+					
+				</Cup>
+				
+				<FriendlyBooked Available="true">true</FriendlyBooked>
+				<FriendlyTeamID Available="true">800755</FriendlyTeamID>
+				
+				<NumberOfVictories Available="true">3</NumberOfVictories>
+				<NumberOfUndefeated Available="true">3</NumberOfUndefeated>
+				<TeamRank Available="true">73246</TeamRank>
+			
+			    <YouthTeamID>1038113</YouthTeamID>
+			
+		 </Team>
+		 
+</HattrickData>
