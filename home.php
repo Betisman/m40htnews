@@ -29,6 +29,15 @@
         <div class="level1"><a href="javascript:llamarasincrono('trofeos.php', 'cuerpo');">trofeos</a></div>
         <div class="level2"><a href="javascript:llamarasincrono('IntrPitis.php', 'cuerpo');">Internacional de Pitis</a></div>
     </div>
+    <div class="menu" id="login">
+    	<h1>INGRESO</h1>
+        <form action="javascript:llamarasincrono('reuniones.php', 'cuerpo');" method="post" name="loginingreso">
+        	<input name="Usuario" type="text" size="16" maxlength="50" class="campoformulario">
+        	<input name="Contrase&ntilde;a" type="password" size="16" maxlength="50" class="campoformulario">
+            <input name="enviar" type="submit" value="enviar" class="campoformulario" id="botonenviar">
+            <input name="borrar" type="reset" value="borrar" class="campoformulario" id="botonborrar">
+        </form>
+    </div>
     <div class="principal">
     	<div class="top">
         	<img src="images/topm40.png" alt="top">

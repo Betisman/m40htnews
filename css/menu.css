@@ -1,14 +1,14 @@
-a:visited,a:link {
+.menu a:visited,a:link {
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 	text-decoration: none; 
 	color: #144A19; 
 	}
-a:hover {
+.menu a:hover {
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 	text-decoration: underline; 
 	color:DarkSlateGray; 
 	}
-a:active {
+.menu a:active {
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 	text-decoration: none; 
 	color:LightSlateGray;
@@ -27,6 +27,9 @@ body {
 {
 	padding-left:8px;
 	font-weight: bold;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none; 
+	color: #144A19;
 }
 
 .level2 
@@ -48,7 +51,28 @@ body {
     border-top:none;
     position:relative;
 }
-
+form{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	padding:5px 0 5px 0;
+	margin-left: 10px;
+	
+}
+.campoformulario{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#000;
+	width: 12em;
+	border: 1px Solid #144A19;
+	padding: 2px;
+}
+#botonenviar{
+	width:6em;
+}
+#botonborrar{
+	margin-left:2px;
+	width:6em;
+}
 h1
 {
     min-height:14px;
