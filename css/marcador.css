@@ -1,0 +1,20 @@
+#marcador h1 {
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  text-decoration: none; 
+  color: #144A19; 
+}
+#tablamarcador {
+  border-collapse: collapse;
+  border: 1px solid #03476F;
+  font: normal 11px verdana, arial, helvetica, sans-serif;
+  color: #363636;
+  background: #92C428;
+  }
+
+.ML, .MV, .MGL, .MGV{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #144A19;
+	font-size:1em;
+	
+}

@@ -11,12 +11,27 @@ $(document).ready(function(){
 		success : function(xml){
 					$(xml).find("TeamName").each(function(){
 							var nombre = $(this).text();
-							$('#nombreequipo').html('<h1>'+ nombre +'</h1>');
+							$('#nombreequipo').html(nombre);
 						}
 					);
+					$(xml).find("ArenaName").each(function(){
+							var estadio = $(this).text();
+							$('#nombreestadio').html(estadio);
+						}
+					)
 					$(xml).find("LeagueLevelUnitName").each(function(){
 							var liga = $(this).text();
-							$('#nombreequipo').append('<h2>'+ "Está en la liga "+ liga +'</h2>');
+							$('#division').html(liga);
+						}
+					)
+					$(xml).find("NumberOfVictories").each(function(){
+							var victorias = $(this).text();
+							$('#NumberOfVictories').html(victorias);
+						}
+					)
+					$(xml).find("NumberOfUndefeated").each(function(){
+							var noperdidos = $(this).text();
+							$('#NumberOfUndefeated').html(noperdidos);
 						}
 					)
 				  }
