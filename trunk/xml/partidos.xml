@@ -1,0 +1,26 @@
+<partidos>
+	<partido id="32455">
+		<equipolocal id="1">ThePiso</equipolocal>
+		<goleslocal>10</goleslocal>
+		<golesvisitante>3</golesvisitante>
+		<equipovisitante id="9">RBB</equipovisitante>
+	</partido>
+	<partido id="56634">
+		<equipolocal id="9">RBB</equipolocal>
+		<goleslocal>8</goleslocal>
+		<golesvisitante>125</golesvisitante>
+		<equipovisitante id="1">ThePiso</equipovisitante>
+	</partido>
+	<partido id="563456">
+		<equipolocal id="2">Pitisianos</equipolocal>
+		<goleslocal>4</goleslocal>
+		<golesvisitante>5</golesvisitante>
+		<equipovisitante id="3">Espino</equipovisitante>
+	</partido>
+	<partido id="84522">
+		<equipolocal id="5">Carfesan</equipolocal>
+		<goleslocal>1</goleslocal>
+		<golesvisitante>178</golesvisitante>
+		<equipovisitante id="9">RBB</equipovisitante>
+	</partido>
+</partidos>
