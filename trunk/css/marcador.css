@@ -2,6 +2,8 @@
   font-family:Verdana, Arial, Helvetica, sans-serif;
   text-decoration: none; 
   color: #144A19; 
+  font-size: small;
+  text-align:center;
 }
 #tablamarcador {
   border-collapse: collapse;
@@ -9,6 +11,7 @@
   font: normal 11px verdana, arial, helvetica, sans-serif;
   color: #363636;
   background: #92C428;
+  text-align:center;
   }
 
 .ML, .MV, .MGL, .MGV{
